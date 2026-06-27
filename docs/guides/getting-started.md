@@ -18,5 +18,11 @@ Run it against a sample config:
 doctest run --config ./doctest.yaml
 ```
 
-That's it for the `0.1` line. See [Configuration](./configuration.md) for the available
-options.
+New in `0.2`: pass `--watch` to re-run on file changes:
+
+```bash
+doctest run --config ./doctest.yaml --watch
+```
+
+See [Configuration](./configuration.md) for the available options and the
+[CLI reference](../reference/cli.md) for every flag.

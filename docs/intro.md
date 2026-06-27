@@ -18,9 +18,10 @@ and the site embeds it; that is the whole contract.
 
 - [Getting started](./guides/getting-started.md) — install and run.
 - [Configuration](./guides/configuration.md) — the config file reference.
+- [CLI reference](./reference/cli.md) — every command and flag _(new in 0.2)_.
 
 ## Versioning
 
 Doc versions are `major.minor` release **lines** derived from this repo's git tags. The
 newest line is the live docs; older lines stay browsable, regenerated from their tags at
-build time. You are reading the `0.1` line.
+build time. You are reading the `0.2` line — switch lines with the version dropdown.
