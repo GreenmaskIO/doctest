@@ -21,3 +21,4 @@ paths:
 | `name` | string | `default` | A label for the run. |
 | `verbose` | bool | `false` | Emit per-file diagnostics. |
 | `paths` | list | `[]` | Directories to scan. |
+| `fail_fast` | bool | `false` | Stop on the first failure _(patched in 0.2.1)_. |
