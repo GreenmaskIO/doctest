@@ -25,3 +25,5 @@ and the site embeds it; that is the whole contract.
 Doc versions are `major.minor` release **lines** derived from this repo's git tags. The
 newest line is the live docs; older lines stay browsable, regenerated from their tags at
 build time. You are reading the `0.2` line — switch lines with the version dropdown.
+
+### Test item
